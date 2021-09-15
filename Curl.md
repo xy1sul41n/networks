@@ -14,3 +14,11 @@
 | `curl -X OPTIONS http://inlanefreight.com/ -vv` | `cURL` OPTIONS request |
 | `curl -X PUT -d @test.txt http://inlanefreight.com/test.txt -vv` | File upload with `cURL` |
 | `curl -X DELETE http://inlanefreight.com/test.txt -vv` | DELETE method with `cURL` |
+
+
+
+TOOLS
+
+https://jsconsole.com/
+
+http://jsnice.org/
